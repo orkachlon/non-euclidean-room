@@ -11,14 +11,12 @@ public class PlayerLook : MonoBehaviour
 
     private float xAxisClamp;
 
-    // Start is called before the first frame update
     void Awake()
     {
         LockCursor();
         xAxisClamp = 0;
     }
 
-    // Update is called once per frame
     void Update()
     {
         CameraRotation();
