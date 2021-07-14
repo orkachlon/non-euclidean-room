@@ -19,11 +19,11 @@ Video:</br>
 ## Installation
 ### Dependencies
 ### Unity
-This project was made with Unity 2019.1 so any newer version should work as well.</br>
+This project was made with Unity 2019.4.4f1 so any newer version should work as well.</br>
 In order to play the game you must build it in Unity first and then execute the resulting file.
 
 ## Instructions
-Move around with the arrow keys or with WASD, use the spacebar to jump, and look around with the mouse.</br>
+Move around with the arrow keys or with WASD, use the space bar to jump, and look around with the mouse.</br>
 To exit press ESC.
 
 ## Files
