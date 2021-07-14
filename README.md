@@ -2,9 +2,19 @@
 Final project for the course "The visual culture of science" in Bezalel.
 
 ## Description
-This project aims to introduce a more intuitive way of understanding non Euclidean spaces, by letting the user wander in a room where space can curve.
-
+This project aims to introduce a more intuitive way of understanding non Euclidean spaces, by letting the user wander in a room where space can curve.</br>
 Through this project experience space distortion, expansion, compression and curvature as they might seem through your eyes.
+
+![Example 1](./md/ner_1.gif)
+
+![Example 2](./md/ner_2.gif)
+
+![Example 2](./md/ner_3.gif)
+
+![Example 2](./md/ner_4.gif)
+
+Video:</br>
+[![Click to play video](https://img.youtube.com/vi/gblDxUZDRX0/0.jpg)](https://www.youtube.com/watch?v=gblDxUZDRX0)
 
 ## Installation
 ### Dependencies
@@ -184,4 +194,5 @@ To exit press ESC.
 └── README.md
 ```
 ## References
-The only reference worth mentioning is also the one that sparked the idea for this project. It's a [Brackeys tutorial](https://www.youtube.com/watch?v=cuQao3hEKfs&ab_channel=Brackeys) on how to create portals in Unity.
+[Brackeys Portal tutorial](https://www.youtube.com/watch?v=cuQao3hEKfs&ab_channel=Brackeys) on how to create portals in Unity.</br>
+[CodeParade's video](https://www.youtube.com/watch?v=kEB11PQ9Eo8) on non euclidean geometry.
